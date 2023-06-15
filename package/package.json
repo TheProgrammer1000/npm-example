@@ -1,0 +1,22 @@
+{
+  "name": "is-code-good-or-no",
+  "version": "1.0.0",
+  "description": "Testing if the code is great",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheProgrammer1000/npm-example.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Dennis Karlsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheProgrammer1000/npm-example/issues"
+  },
+  "homepage": "https://github.com/TheProgrammer1000/npm-example#readme"
+}
